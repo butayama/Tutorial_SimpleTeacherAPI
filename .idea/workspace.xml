@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d33792ba-3bac-4d5e-b15a-240a1778cb58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Tutorial 1 - Sphinx Documentation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tutorial 1 - Sphinx Documentation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d33792ba-3bac-4d5e-b15a-240a1778cb58" name="Default" comment="setup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -145,14 +148,30 @@
       <option name="presentableId" value="Default" />
       <updated>1529072754590</updated>
       <workItem from="1580576705194" duration="11000" />
-      <workItem from="1580633867559" duration="1535000" />
+      <workItem from="1580633867559" duration="1556000" />
     </task>
+    <task id="LOCAL-00001" summary="setup">
+      <created>1580635722766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580635722766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="131" width="886" height="822" key="CommitChangelistDialog2" timestamp="1580635722608">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="392" y="131" width="886" height="822" key="CommitChangelistDialog2/0.27.1680.1023/1680.0.1920.1080@0.27.1680.1023" timestamp="1580635722608" />
     <state x="336" y="173" width="1007" height="737" key="SettingsEditor" timestamp="1580634967337">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
